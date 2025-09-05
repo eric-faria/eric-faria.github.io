@@ -18,7 +18,7 @@ Vamos primeiro entender a **teoria** por trás do padrão _Strategy_ e, em segui
 
 ## Entendendo o Conceito do Padrão Strategy
 
-Antes de codificar, vamos à definição. O Padrão __Strategy_ é um padrão de projeto **comportamental** (_Behavioral Design Pattern_) que permite definir uma família de algoritmos, encapsular cada um deles em classes separadas e torná-los intercambiáveis.
+Antes de codificar, vamos à definição. O Padrão _Strategy_ é um padrão de projeto **comportamental** (_Behavioral Design Pattern_) que permite definir uma família de algoritmos, encapsular cada um deles em classes separadas e torná-los intercambiáveis.
 
 A ideia central é permitir que o algoritmo (a "estratégia") varie independentemente dos clientes (o "contexto") que o utilizam.
 
